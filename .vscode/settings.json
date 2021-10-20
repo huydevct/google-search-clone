@@ -3,6 +3,7 @@
         "browserslist",
         "compat",
         "craco",
+        "rapidapi",
         "tailwindcss",
         "webfonts"
     ]
